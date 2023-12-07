@@ -1,2 +1,11 @@
 # ADS1-Assignement2
-test
+
+![Uploading image.png…]()
+
+| Properties | Details                                                                                                                                                                                                                                                                                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Source     | [The World Bank](https://datacatalog.worldbank.org/search?q=&sort=last_updated_date%20desc)                                                                                                                                                                                                                                                    
+| Category       | Digital Development                                                                                                                                                                                                                                                                                                                                    |
+| Data Type  | CSV Files                                                                                                                                                                                                                                                                                                                                       |
+| Files      | 1 CSV File , 1 Stats Module                                                                                                                                                                                                                                                                                                                                               |
+| Github Repo Link           |   [Github Repo]()          
