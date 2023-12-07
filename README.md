@@ -9,6 +9,6 @@
 | Category       | Digital Development                                                                                                                                                                                                                                                                                                                                    |
 | Data Type  | CSV Files                                                                                                                                                                                                                                                                                                                                       |
 | Files      | 1 CSV File , 1 Stats Module                                                                                                                                                                                                                                                                                                                                               |
-| Github Repo Link           |   [Github Repo]()  
+| Github Repo Link           |   [Github Repo](https://github.com/stardustyangel/ADS1-Assignement2.git)  
 
 </div>
